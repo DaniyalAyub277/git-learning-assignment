@@ -1,0 +1,24 @@
+Basic Git Commands
+
+1. git init
+   Initializes a new Git repository.
+
+2. git add .
+   Adds all files to staging area.
+
+3. git commit -m "message"
+   Saves changes with a message.
+
+4. git branch
+   Shows all branches.
+
+5. git checkout -b branch-name
+   Creates and switches to a new branch.
+
+6. git push origin branch-name
+   Pushes branch to GitHub.
+
+7. git pull origin main
+   Updates local branch from GitHub.
+
+Learning Git step by step!
